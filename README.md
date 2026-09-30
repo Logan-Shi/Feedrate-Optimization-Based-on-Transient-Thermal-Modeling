@@ -20,14 +20,6 @@ prototype desktop hardware.
 
 ![Graphical abstract: transient thermal modeling, feedrate optimization, and experimental validation](assets/GraphicalAbstract.png)
 
-## Datasets
-
-The fitted heat-flux datasets are `GeoA`, `GeoB`, `GeoC_p45`, `GeoC_0`, and
-`GeoC_m45`. GeoA is the former constant case, GeoB is sample, and GeoC_p45,
-GeoC_0, and GeoC_m45 correspond to former Boat 2, 3, and 4. STL meshes from
-`model/sample` are included in `data/model/sample/` as `GeoA.stl`, `GeoB.stl`,
-`GeoC.stl`, and `Fender.stl`.
-
 ## Run the examples
 
 ### Reconstruct a thermal field
